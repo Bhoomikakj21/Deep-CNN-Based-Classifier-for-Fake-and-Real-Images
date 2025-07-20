@@ -17,9 +17,16 @@ Deep-CNN-Based-Classifier-for-Fake-and-Real-Images/
     │   ├── best_resnet50_model.pth
     │   └── best_efficientnet_b0_model.pth
     └── Dataset/
+        └── dataset.csv
         └── dataset_rebuilt.csv
         ├── Fake
         └── Real
+
+External Downloads:
+- Dataset: https: https://drive.google.com/drive/folders/1ApOKLu-iE1X2XqdZHPue2mr-0LCtFaa2?usp=drive_link
+    → Extract into: Code/Dataset/
+- Trained Models: https://drive.google.com/drive/folders/10abY4CIZ3Exr2R-xNs1RiSePInyMh4g4?usp=drive_link
+    → Place into: Code/Models/
 
 How to Run:
 1. Open a terminal and go to the 'Code/' directory:
